@@ -1,0 +1,12 @@
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\bin\Release\GorevSayaci.exe.config
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\bin\Release\GorevSayaci.exe
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\bin\Release\GorevSayaci.pdb
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\obj\Release\GorevSayaci.addEmployeeForm.resources
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\obj\Release\GorevSayaci.dutyManagement.resources
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\obj\Release\GorevSayaci.mainFrame.resources
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\obj\Release\GorevSayaci.Properties.Resources.resources
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\obj\Release\GorevSayaci.removeEmployeeForm.resources
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\obj\Release\GorevSayaci.viewDuty.resources
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\obj\Release\GorevSayaci.csproj.GenerateResource.cache
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\obj\Release\GorevSayaci.exe
+C:\Users\REFİK\Source\Repos\GorevSayaci\GorevSayaci\obj\Release\GorevSayaci.pdb
